@@ -1,0 +1,15 @@
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\bin\Debug\Pocket Calculator.exe.config
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\bin\Debug\Pocket Calculator.exe
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\bin\Debug\Pocket Calculator.pdb
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket_Calculator.Form1.resources
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket_Calculator.Properties.Resources.resources
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket Calculator.csproj.GenerateResource.cache
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket Calculator.exe
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket Calculator.pdb
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\bin\Debug\Pocket Calculator.exe.manifest
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\bin\Debug\Pocket Calculator.application
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket Calculator.exe.manifest
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket Calculator.application
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Owen Bell\source\repos\Pocket Calculator\Pocket Calculator\obj\Debug\Pocket_Calculator.Info.resources
